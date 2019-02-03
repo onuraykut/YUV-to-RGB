@@ -1,0 +1,9 @@
+c:\users\kryptows\documents\visual studio 2015\Projects\Yazlab3YUVV\Yazlab3YUVV\bin\Debug\Yazlab3YUVV.exe.config
+c:\users\kryptows\documents\visual studio 2015\Projects\Yazlab3YUVV\Yazlab3YUVV\bin\Debug\Yazlab3YUVV.exe
+c:\users\kryptows\documents\visual studio 2015\Projects\Yazlab3YUVV\Yazlab3YUVV\bin\Debug\Yazlab3YUVV.pdb
+c:\users\kryptows\documents\visual studio 2015\Projects\Yazlab3YUVV\Yazlab3YUVV\obj\Debug\Yazlab3YUVV.csprojResolveAssemblyReference.cache
+c:\users\kryptows\documents\visual studio 2015\Projects\Yazlab3YUVV\Yazlab3YUVV\obj\Debug\Yazlab3YUVV.Form1.resources
+c:\users\kryptows\documents\visual studio 2015\Projects\Yazlab3YUVV\Yazlab3YUVV\obj\Debug\Yazlab3YUVV.Properties.Resources.resources
+c:\users\kryptows\documents\visual studio 2015\Projects\Yazlab3YUVV\Yazlab3YUVV\obj\Debug\Yazlab3YUVV.csproj.GenerateResource.Cache
+c:\users\kryptows\documents\visual studio 2015\Projects\Yazlab3YUVV\Yazlab3YUVV\obj\Debug\Yazlab3YUVV.exe
+c:\users\kryptows\documents\visual studio 2015\Projects\Yazlab3YUVV\Yazlab3YUVV\obj\Debug\Yazlab3YUVV.pdb
